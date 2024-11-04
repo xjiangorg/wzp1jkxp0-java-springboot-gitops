@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wzp1jkxp0-java-springboot-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/wzp1jkxp0-java-springboot-gitops
